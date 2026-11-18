@@ -6,3 +6,6 @@ this is a small edit
 This is a test for a programming course at H-Farm
 
 this is another line
+
+### editing this file
+this is a new line
